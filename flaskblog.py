@@ -6,10 +6,10 @@ posts = [
         'author': 'Atharva wadkar',
         'title': 'Blog Post 1',
         'content': 'First post content',
-        'date_posted': 'April 20, 2018'
+        'date_posted': 'jan 1'
     },
     {
-        'author': 'Jane Doe',
+        'author': 'Kishor',
         'title': 'Blog Post 2',
         'content': 'Second post content',
         'date_posted': 'April 21, 2018'
