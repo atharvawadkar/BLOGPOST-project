@@ -12,7 +12,7 @@ posts = [
         'author': 'Kishor',
         'title': 'Blog Post 2',
         'content': 'Second post content',
-        'date_posted': 'April 21, 2018'
+        'date_posted': 'jan 2'
     }
 ]
 
